@@ -17,10 +17,19 @@ body{
 }
 
 .titulo-principal{
-    font-family: var(--roboto-mono);
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 32px;
 }
-
 .titulo-secundario{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
+}
+.conteudo-titulo{
+    color: #fffbff;
+    text-align: center;
+}
+.conteudo-senha{
+    margin: top 80px;
+    background-color: #000;
+    padding: 24px;
 }
